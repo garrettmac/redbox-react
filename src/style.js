@@ -1,7 +1,7 @@
 export default {
   redbox: {
     boxSizing: 'border-box',
-    fontFamily: 'sans-serif',
+    fontFamily: 'Helvetica',
     position: 'fixed',
     padding: 10,
     top: '0px',
